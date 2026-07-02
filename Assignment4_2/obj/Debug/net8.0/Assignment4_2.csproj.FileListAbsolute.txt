@@ -1,0 +1,15 @@
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/bin/Debug/net8.0/Assignment4_2
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/bin/Debug/net8.0/Assignment4_2.deps.json
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/bin/Debug/net8.0/Assignment4_2.runtimeconfig.json
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/bin/Debug/net8.0/Assignment4_2.dll
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/bin/Debug/net8.0/Assignment4_2.pdb
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.AssemblyInfoInputs.cache
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.AssemblyInfo.cs
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.csproj.CoreCompileInputs.cache
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.sourcelink.json
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.dll
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/refint/Assignment4_2.dll
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.pdb
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/Assignment4_2.genruntimeconfig.cache
+/Users/macbookair/Projects/CdacAssignments/Assignment4_2/obj/Debug/net8.0/ref/Assignment4_2.dll

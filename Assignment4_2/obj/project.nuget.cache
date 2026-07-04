@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/CpXUReE5NVcX4DpGkq4PGHzn681VVxsD26eruN0bFLv+ScAE53nGyiUKTz+CbCkde8mMtAVZc2tmpjavOpZAw==",
+  "dgSpecHash": "Z6MkgGDfma8=",
   "success": true,
   "projectFilePath": "/Users/macbookair/Projects/CdacAssignments/Assignment4_2/Assignment4_2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/macbookair/.nuget/packages/microsoft.netcore.app.ref/8.0.27/microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.27/microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.27/microsoft.netcore.app.host.osx-arm64.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

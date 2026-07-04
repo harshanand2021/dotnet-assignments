@@ -51,6 +51,7 @@ ehthumbs.db
 ehthumbs_vista.db
 
 # Cache Files
+*AssemblyInfoInput.cache
 *.cache
 
 # Assembly Info files
